@@ -1,0 +1,10 @@
+bin/
+lib/
+include/
+etc/
+share/
+pyvenv.cfg
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Client/models/
